@@ -1,0 +1,54 @@
+body{
+    background:#B0C1B7;
+    margin-bottom: 100px;
+}
+table{
+    max-width:100%;
+    margin: auto;
+    text-align: center;
+    border:1px;
+    border-collapse: collapse;
+}
+h3{
+    font-style: italic;
+}
+table,{
+  border: 1px solid #94AC9F;
+}
+tr:fast-child{
+    background-color: ##94AC9F;
+}
+tr,th,td{
+    padding: 10px 10px;
+    font-size: 20px;
+}
+th{
+    background-color: #94AC9F;
+    border: 1px solid #B0C1B7 !important;
+    color: #4D5047;
+    font-style: italic;
+    
+     
+}
+td{
+	color: #414E70;
+	background:#B0C1B7;
+    border: 1px solid #94AC9F !important;
+    
+}
+td:first-child{
+	color: #434250;
+	background:#94AC9F;
+    border: 1px solid #B0C1B7 !important;
+    font-style: italic;
+}
+td:last-child{
+    border: 1px solid #94AC9F !important;
+}
+
+
+
+
+
+
+ahmedjahangirid@gmail.com
